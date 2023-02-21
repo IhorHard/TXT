@@ -1,0 +1,18 @@
+
+name: Tony Montana
+age: 28
+         
+PETS
+Pettype: cat
+Petname: Senya
+
+Pet
+Pettype: dog
+Petname: Mikki
+              
+PET
+pettype: dog
+petname: Charlie
+                
+future salary: 1337
+
