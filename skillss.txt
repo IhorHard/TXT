@@ -1,0 +1,16 @@
+
+       Name:Clients server architecture
+       Name2:Development methodologies
+       Name3:HTML
+       Name4:CSS
+       Name5:Cache cookie local storage
+       Name6:DNS_URL domain IP
+       Name7:HTTP(S)
+       Name8:JSON XML
+       Name9:Chrome dev tools
+       Name10:Postman
+       Name11:Test design technique
+       Name12:Test documentation
+       Name13:Test management systems
+       Name14:SQL
+       Name15:Databases
